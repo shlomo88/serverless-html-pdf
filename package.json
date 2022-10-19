@@ -16,7 +16,7 @@
     "aws-sdk": "^2.20.0"
   },
   "dependencies": {
-    "mocha": "^3.2.0",
+    "mocha": "^10.1.0",
     "serverless-webpack": "^1.0.0-rc.4",
     "webpack": "^1.13.3"
   },
